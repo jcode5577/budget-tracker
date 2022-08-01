@@ -41,5 +41,5 @@ If you want to contribute, open a Pull Request and include a detailed descriptio
 
 ## Questions
 If you have any questions about the repo, open an issue or contact jcode5577 directly at john.hamilton5577@gmail.com.
-# budget-tracker
+
 
