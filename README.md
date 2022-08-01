@@ -40,6 +40,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you want to contribute, open a Pull Request and include a detailed description and screenshots of the changes.
 
 ## Questions
-
+If you have any questions about the repo, open an issue or contact jcode5577 directly at john.hamilton5577@gmail.com.
 # budget-tracker
 
