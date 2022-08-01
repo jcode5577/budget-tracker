@@ -41,5 +41,5 @@ If you want to contribute, open a Pull Request and include a detailed descriptio
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact [ryan-harris](https://github.com/ryan-harris) directly at harris.ucla@gmail.com.
+# budget-tracker
 # budget-tracker
